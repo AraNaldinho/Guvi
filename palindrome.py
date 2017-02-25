@@ -1,4 +1,5 @@
-def isPalindrome(int x) {
+def isPalindrome(int x)
+{
         s = str(x)
         i = 0
         j = len(s)-1
